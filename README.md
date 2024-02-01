@@ -1,4 +1,4 @@
-### Opa, me chamo Andre Luiz
+### Opa, Me chamo Andre Luiz
 - 💻 Formado em TI
 - 📧 andreluizxpz777@gmail.com
    
