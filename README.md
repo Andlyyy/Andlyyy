@@ -16,11 +16,10 @@
 </div>
 
 
-  ### Meu linkedin:
-  
-<div>
+  ### Meu linkedin: 
+
    <a href="  https://www.linkedin.com/in/andre-luiz-belfort-09993b290/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- 
     badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-</div>
+
   
