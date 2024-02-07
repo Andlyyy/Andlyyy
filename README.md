@@ -1,6 +1,6 @@
 ### Opa, Me chamo Andre Luiz
 - 💻 Formado em TI
-- 📧 andreluizxpz777@gmail.com
+- 📧 #@gmail.com
    
 ### Conhecimentos adquirido ate agora:
 
